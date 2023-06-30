@@ -1,0 +1,16 @@
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.exe
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.deps.json
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.runtimeconfig.json
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.runtimeconfig.dev.json
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.dll
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\ref\TestServer.dll
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\bin\Debug\net5.0\TestServer.pdb
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.csproj.AssemblyReference.cache
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.AssemblyInfoInputs.cache
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.AssemblyInfo.cs
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.dll
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\ref\TestServer.dll
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.pdb
+C:\Users\G12-OMEN-2\source\repos\TestServer\TestServer\obj\Debug\net5.0\TestServer.genruntimeconfig.cache
